@@ -6,7 +6,7 @@ You can clone the repository by
 git clone --recurse-submodules https://github.com/hiddenSymmetries/SummerSchool2020.git
 ```
 
-Or update it (if you have coloned it previously).
+Or update it (if you have cloned it previously) using
 ```
 git pull origin master
 git submodule update --init
