@@ -1,0 +1,3 @@
+[submodule "STELLOPT_labs"]
+	path = STELLOPT_labs
+	url = https://github.com/zhucaoxiang/stellopt_labs.git
